@@ -1,0 +1,21 @@
+/* style sheet */
+
+body {
+  text-align: center;
+}
+
+.body_text {
+  font-size: 48px;
+}
+
+#special {
+  background-color: #ff0000
+  /*or could use rgb (255, 0, 0) - full red, no green, no blue*/
+}
+
+/* CSS Pseudo-class  */
+a:hover{
+  color: rgb(255, 0, 0);
+/* when you hover over a link, it goes red*/
+
+}
